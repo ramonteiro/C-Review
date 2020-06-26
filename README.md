@@ -1,2 +1,2 @@
 # C Review
- Keeping up to date on Mr Ritchie legacy.
+ Keeping my basic skills up to date on Mr Ritchie legacy.
