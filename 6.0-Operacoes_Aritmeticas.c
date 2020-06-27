@@ -1,4 +1,4 @@
-/* Expressões airtméticas */
+/* Revisão de sintaxe e expressões aritméticas simples. */
 
 #include <stdio.h>
 #include <stdlib.h>
